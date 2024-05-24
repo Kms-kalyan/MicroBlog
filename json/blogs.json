@@ -1,0 +1,20 @@
+[
+  {
+    "title" : "MSK1",
+    "content" : "content1",
+    "author" : "author1",
+    "creationDate" : "21-10-2023 12:24:36"
+  },
+  {
+    "title" : "MSK2",
+    "content" : "content2",
+    "author" : "author2",
+    "creationDate" : "22-10-2023 12:24:36"
+  },
+  {
+    "title" : "MSK3",
+    "content" : "content3",
+    "author" : "author3",
+    "creationDate" : "23-10-2023 12:24:36"
+  }
+]
